@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44480767249",
+    "project_id": "sleepyhotelzoo",
+    "storage_bucket": "sleepyhotelzoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44480767249:android:000b7274ffc1682674d8b0",
+        "android_client_info": {
+          "package_name": "com.example.sleepy_hotel_zoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44480767249-2jirrgj7h3gqemva2g2lblnc76got40l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNDMwg10JfBGZ81op1otgc6_2OTKjSsqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44480767249-2jirrgj7h3gqemva2g2lblnc76got40l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
